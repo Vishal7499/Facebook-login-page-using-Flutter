@@ -1,16 +1,35 @@
-# secondly
+# Facebook Login UI
 
-A new Flutter project.
+This Flutter project is a simple implementation of a UI similar to the Facebook login page.
+
+## Features
+
+- Facebook logo at the top of the page.
+- Text fields for email/phone and password.
+- "Forgot Password?" text.
+- "Log In" button.
+- "Create New Account" button.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository to your local machine using the following command:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Open the project in your preferred IDE or text editor.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Make sure you have Flutter installed on your machine.
+
+4. Connect a device (emulator, simulator, or physical device) to your machine.
+
+5. Run the app using the following command:
+
+## Screenshots
+
+Include screenshots or gifs of the app here.
+
+![Facebook Login Page](FB login1.png).
+
+![Facebook Login Page](FB login2.png).
+
+![Facebook Login Page](FB login3.png).
